@@ -1,0 +1,25 @@
+/*.container {
+    position: relative;
+    max-width: 80%;
+    height: auto;
+    border: black solid 2px;
+}*/
+.click-me {
+    position:relative;
+}
+.square {
+    background-color: red;
+    height: 200px;
+    width: 200px;
+    margin: 20px 20px;
+    float: left;
+    color:white;
+}
+
+#squareId {
+    border: 1px solid lightgreen;
+}
+
+button {
+    display: block;
+}
