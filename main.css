@@ -4,22 +4,20 @@
     height: auto;
     border: black solid 2px;
 }*/
-.click-me {
-    position:relative;
-}
 .square {
-    background-color: red;
+    background-color: black;
     height: 200px;
     width: 200px;
     margin: 20px 20px;
     float: left;
     color:white;
+    line-height: 200px;
+    text-align: center;
 }
 
-#squareId {
-    border: 1px solid lightgreen;
-}
 
 button {
     display: block;
 }
+
+
